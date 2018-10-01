@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CG 11-2", "CG 11-2\CG 11-2.csproj", "{868BCCA9-938A-4E4C-95D2-10C098ED08C7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{03DBB002-BD5C-4F28-AE46-6D071A490B2B}"
+	ProjectSection(SolutionItems) = preProject
+		StudentData.txt = StudentData.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
